@@ -1,6 +1,6 @@
 
-<h1 align="center">Hola 👋, soy Wilkin creador de Ryder</h1>
-<h3 align="center">Estudiante y desarrollador.</h3>
+<h1 align="center">Hola 👋, soy Wilkin </h1>
+<h3 align="center">Desarrollador.</h3>
 
 <br>
 
@@ -13,7 +13,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ryder" /></p>
 
 
-- 🌱 Actualmente estoy aprendiendo Flutter y Node.js
+- 🌱 Actualmente Desarrollo En Flutter y Firebase
 
 - 📫 Cómo contactarme **wilkincodigo@gmail.com**
 
